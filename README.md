@@ -40,7 +40,7 @@
 ## 🖇 Let's Connect!
 
 - *📧 Email:* sushantmishra2110@gmail.com
-- *🔗 LinkedIn:* www.linkedin.com/in/sushant-mishra-tester/
+- *🔗 LinkedIn:* https://www.linkedin.com/in/sushant-mishra-ss0601/
 
 ##
 
