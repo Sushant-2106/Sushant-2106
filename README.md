@@ -6,7 +6,7 @@
 - *📊 Experience:* Developing automated test scripts, writing detailed test cases, and performing in-depth test analyses.
 - *💼 Projects:* Completed multiple end-to-end testing projects, including manual and automated testing for eCommerce applications.
 - *🌍 Location:* Chandigarh.
-- *📧 Contact:* sushantmishra2110@gmail.com | LinkedIn: www.linkedin.com/in/sushant-mishra-tester/
+- *📧 Contact:* sushantmishra2110@gmail.com | LinkedIn: https://www.linkedin.com/in/sushant-mishra-ss0601/
 
 
 ## 🚀 What Do I Do?
